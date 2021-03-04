@@ -1,12 +1,12 @@
 {
     "general":
     {
-        "title": "Bruno Simon - Creative Developer",
-        "description": "French developer living in Paris. Currently working at Immersive, former Uzik, also teaching classes at HETIC and doing freelance work."
+        "title": "Alec Campbell - Creative Developer",
+        "description": "Creative thinker who likes to tinker in all things I dont yet fully understand."
     },
     "who":
     {
-        "description": "French developer living in Paris. Currently working at <a href='http://immersive-g.com/'>Immersive Garden</a>, former Uzik, also teaching classes at HETIC and doing freelance work.",
+        "description": "Creative thinker.",
         "skills"     :
         [
             { "slug": "html5",   "title": "HTML5" },
@@ -27,10 +27,10 @@
         ],
         "social":
         [
-            { "slug": "github",   "title": "Github",   "link": "https://github.com/brunosimon/" },
+            { "slug": "github",   "title": "Github",   "link": "https://github.com/fu4303/" },
             { "slug": "twitter",  "title": "Twitter",  "link": "https://twitter.com/bruno_simon" },
-            { "slug": "linkedin", "title": "LinkedIn", "link": "https://www.linkedin.com/in/simonbruno77" },
-            { "slug": "mail",     "title": "Mail",     "link": "mailto:contact@bruno-simon.com" }
+            { "slug": "linkedin", "title": "LinkedIn", "link": "https://www.linkedin.com/in/doc22940" },
+            { "slug": "mail",     "title": "Mail",     "link": "mailto:iarenotamnot@gmail.com" }
         ]
     },
     "works":
@@ -69,6 +69,8 @@
                     }
                 ],
                 "link"    : "https://www.decathlon-united.com",
+
+                
                 "logo"    : "projects/decathlon-united/logo.png",
                 "pictures":
                 [
@@ -440,116 +442,6 @@
                 "link": "http://sonic-blocks.bruno-simon.com"
             },
             {
-                "title": "Nicolas Bussière",
-                "infos":
-                [
-                    {
-                        "label": "Role",
-                        "value": "Front/Back developer"
-                    },
-                    {
-                        "label": "As",
-                        "value": "Freelancer"
-                    },
-                    {
-                        "label": "Client",
-                        "value": "Nicolas Bussière"
-                    },
-                    {
-                        "label": "With",
-                        "value":
-                        [
-                            {
-                                "title": "Nicolas Bussière",
-                                "link" : "http://nicolas-bussiere.fr"
-                            }
-                        ]
-                    },
-                    {
-                        "label": "Distinctions",
-                        "value":
-                        [
-                            {
-                                "title": "Awwwards SOTD",
-                                "link" : "http://www.awwwards.com/web-design-awards/nicolas-bussiere-1"
-                            },
-                            {
-                                "title": "CSS design awards SOTD",
-                                "link" : "http://www.cssdesignawards.com/sites/nicolas-bussiere/26646/"
-                            },
-                            {
-                                "title": "Site Inspire",
-                                "link" : "http://www.siteinspire.com/websites/5381-nicolas-bussiere"
-                            }
-                        ]
-                    }
-                ],
-                "logo"    : "projects/nicolas-bussiere/logo.png",
-                "pictures":
-                [
-                    "projects/nicolas-bussiere/0.jpg",
-                    "projects/nicolas-bussiere/2.jpg",
-                    "projects/nicolas-bussiere/3.jpg",
-                    "projects/nicolas-bussiere/4.jpg",
-                    "projects/nicolas-bussiere/5.jpg"
-                ],
-                "link": "http://nicolas-bussiere.fr"
-            },
-            {
-                "title": "JR & Associée",
-                "infos":
-                [
-                    {
-                        "label": "Role",
-                        "value": "Front developer"
-                    },
-                    {
-                        "label": "As",
-                        "value": "Freelancer"
-                    },
-                    {
-                        "label": "Client",
-                        "value": "Julia Roger"
-                    },
-                    {
-                        "label": "With",
-                        "value":
-                        [
-                            {
-                                "title": "Sylvain Capeyron",
-                                "link" : "http://www.awwwards.com/Beaubourg/"
-                            }
-                        ]
-                    },
-                    {
-                        "label": "Distinctions",
-                        "value":
-                        [
-                            {
-                                "title": "Awwwards SOTD",
-                                "link" : "http://www.awwwards.com/web-design-awards/jr-associee"
-                            }
-                        ]
-                    }
-                ],
-                "logo"    : "projects/jr-associee/logo.png",
-                "pictures":
-                [
-                    "projects/jr-associee/0.jpg",
-                    "projects/jr-associee/2.jpg",
-                    "projects/jr-associee/3.jpg",
-                    "projects/jr-associee/4.jpg",
-                    "projects/jr-associee/5.jpg"
-                ],
-                "link": "http://jr-associee.com"
-            }
-        ]
-    },
-    "lab":
-    {
-        "items":
-        [
-            {
                 "title": "Beams",
                 "infos":
                 [
@@ -613,45 +505,6 @@
                     "lab/uzik-commits-circular-calendar/1.jpg",
                     "lab/uzik-commits-circular-calendar/2.jpg",
                     "lab/uzik-commits-circular-calendar/3.jpg"
-                ]
-            },
-            {
-                "title": "Claude",
-                "infos":
-                [
-                    {
-                        "label": "features",
-                        "value": "ARDUINO - NODE WEBKIT"
-                    },
-                    {
-                        "label": "description",
-                        "value": "A colorful desk cloud, USB powered, controlled by an OSX app"
-                    },
-                    {
-                        "label": "With",
-                        "value":
-                        [
-                            {
-                                "title": "Stéphanie Chhim"
-                            },
-                            {
-                                "title": "Céline Tonnelier"
-                            }
-                        ]
-                    }
-                ],
-                "link"    : "https://github.com/brunosimon/claude",
-                "pictures":
-                [
-                    "lab/claude/1.jpg",
-                    "lab/claude/2.jpg",
-                    "lab/claude/3.jpg",
-                    "lab/claude/4.jpg",
-                    "lab/claude/5.jpg",
-                    "lab/claude/6.jpg",
-                    "lab/claude/7.jpg",
-                    "lab/claude/8.jpg",
-                    "lab/claude/9.jpg"
                 ]
             },
             {
